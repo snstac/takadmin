@@ -1,0 +1,6 @@
+# TAK Server User Management CLI Tool - Dependencies
+# These dependencies are also specified in pyproject.toml
+
+requests>=2.25.0
+urllib3>=1.26.0
+cryptography>=3.4.0

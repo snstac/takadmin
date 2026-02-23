@@ -1,0 +1,7 @@
+# Include documentation and requirements
+include README.md
+include requirements.txt
+include LICENSE
+
+# Include all Python source files
+recursive-include *.py
